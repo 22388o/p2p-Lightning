@@ -11,16 +11,16 @@
 	},
 	"followingList": {
 		"alerts": {
-			"failureToRemove": "Falta de eliminación",
-			"removed": "Remoto",
-			"removedUser": "Usuario eliminado de la siguiente lista"
+			"failureToRemove": "Eliminación Fallida",
+			"removed": "Eliminado",
+			"removedUser": "Usuario fue eliminado exitosamente"
 		},
-		"followingList": "Lista de seguidores",
+		"followingList": "Lista de Seguidores",
 		"unfollowUser": "¿Estás seguro de que quieres dejar de seguir a este usuario?"
 	},
 	"general": {
 		"aboutMe": "Sobre Mí",
-		"actions": "Comportamiento",
+		"actions": "Acciones",
 		"buying": "Comprando",
 		"capacity": "Capacidad",
 		"city": "Ciudad",
@@ -32,64 +32,64 @@
 		"location": "Ubicación",
 		"logOut": "Cerrar Sesión",
 		"name": "Nombre",
-		"nodeInformation": "Información del nodo",
+		"nodeInformation": "Información del Nodo",
 		"profile": "Perfil",
 		"removed": "Remoto",
-		"save": "Salvar",
+		"save": "Guardar",
 		"search": "Buscar",
 		"selling": "De Venta",
 		"settings": "Ajustes",
 		"signIn": "Registrarse",
 		"state": "Estado",
-		"username": "Nombre de usuario"
+		"username": "Nombre de Usuario"
 	},
 	"home": {
 		"invoiceModal": {
-			"connectToLightningNode": "Conéctate al Nodo Relámpago de LocalLightning",
-			"savedPayInvoice": "Guardados en el almacenamiento del usuario, pagar factura para publicar en el feed de listado"
+			"connectToLightningNode": "Conéctate al Nodo Lightning de LocalLightning",
+			"savedPayInvoice": "La informacion ha sido guardada en el almacenamiento del usuario, pagar factura para publicar en la lista"
 		},
 		"notify": {
-			"deletedListing": "Listado borrado",
+			"deletedListing": "Listado Eliminado",
 			"deletedListingFailed": "Error al eliminar la lista",
 			"error": "Error",
 			"errorSavingUserStorage": "Error al guardar la lista en el almacenamiento del usuario",
-			"invoicePaid": "Factura pagada",
-			"invoicePaidDesc": "Listado publicado en el feed de listado",
+			"invoicePaid": "Factura Pagada",
+			"invoicePaidDesc": "Listado Publicado",
 			"listingDiscarded": "Listado Descartado",
-			"listingSaved": "Listado guardado",
+			"listingSaved": "Listado Guardado",
 			"listingSavedToYourStorage": "Listado guardado en su almacenamiento"
 		},
 		"search": {
-			"city": "Buscar ciudad",
-			"country": "Buscar pais",
-			"state": "Estado de búsqueda"
+			"city": "Buscar Ciudad",
+			"country": "Buscar Pais",
+			"state": "Buscar Estado"
 		},
 		"table": {
 			"buyingTable": "Comprando BTC",
-			"listingType": "Tipo de listado",
-			"postBuyListing": "Publicar listado de compra",
-			"postSellListing": "Publicar anuncio de venta",
+			"listingType": "Tipo de Listado",
+			"postBuyListing": "Publicar Compra",
+			"postSellListing": "Publicar Venta",
 			"sellingTable": "Vendiendo BTC"
 		},
 		"welcome": {
 			"getStarted": "Empezar",
 			"header": "Bienvenido a Local Lightning!",
-			"learnMore": "Para aprender más sobre la red Lightning, por favor, echa un vistazo a",
-			"optionallyConnectToNode": "Opcionalmente, conecte al Nodo de Rayo Local",
+			"learnMore": "Para aprender más sobre el Lightning Network, por favor, leer el siguiente",
+			"optionallyConnectToNode": "Opcionalmente, se puede conectar al nodo de Local Lightning",
 			"paragraph1": "Local Lightning fue creado para conectar a aquellos que desean vender o comprar bitcoin localmente.",
 			"paragraph2": "Al utilizar Lightning Network sobre Bitcoin, los usuarios pueden aprovechar el envío y la recepción instantáneos de Bitcoin sin la necesidad de esperar los tiempos de confirmación.",
 			"paragraph3": "A diferencia de sitios web similares, Local Lightning nunca retiene ni administra los fondos de los usuarios.",
-			"thisArticle": "este artículo."
+			"thisArticle": "artículo."
 		}
 	},
 	"profile": {
 		"alerts": {
-			"alreadyFollowingUser": "Ya Siguiendo Usuario",
+			"alreadyFollowingUser": "Ya estas siguiendo al usuario",
 			"failureDeleteListing": "Error al eliminar la lista del servidor",
 			"failureDeleteListingUser": "Error al eliminar la lista de su almacenamiento",
 			"failureFollowingUser": "Error al seguir al usuario",
-			"followingUser": "Siguiente usuario",
-			"removedListing": "Listado eliminado",
+			"followingUser": "Siguiendo al usuario",
+			"removedListing": "Listado Eliminado",
 			"userNotFound": "Usuario no encontrado"
 		},
 		"deleteListing": "¿Estás seguro de que quieres eliminar esta lista?"
@@ -102,7 +102,7 @@
 		"notifications": "Notificaciones",
 		"rtlSupport": "Soporte RTL",
 		"settings": "Ajustes",
-		"tableList": "Lista de tablas",
+		"tableList": "Lista",
 		"userProfile": "Perfil del usuario"
 	}
 }
