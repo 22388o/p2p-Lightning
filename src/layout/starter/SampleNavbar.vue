@@ -131,7 +131,7 @@ export default {
       activeItem: 5,
       search: '',
       userSession: null,
-      langs: ['en', 'es'],
+      langs: ['en', 'es', 'fr'],
       locale: 'en'
     }),
     watch: {

@@ -1,0 +1,108 @@
+{
+	"dashboard": {
+		"buyingTable": "Buying BTC via Lightning"
+	},
+	"editProfile": {
+		"alerts": {
+			"failedSavedProfile": "Failed To Save Profile",
+			"savedProfile": "Saved Profile"
+		},
+		"editProfile": "Edit Profile"
+	},
+	"followingList": {
+		"alerts": {
+			"failureToRemove": "Failure To Remove",
+			"removed": "Removed",
+			"removedUser": "Removed user from following list"
+		},
+		"followingList": "Following List",
+		"unfollowUser": "Are you sure you want to stop following this user?"
+	},
+	"general": {
+		"aboutMe": "About Me",
+		"actions": "Actions",
+		"buying": "Buying",
+		"capacity": "Capacity",
+		"city": "City",
+		"country": "Country",
+		"currency": "Currency",
+		"description": "Description",
+		"email": "Email",
+		"follow": "Follow",
+		"location": "Location",
+		"logOut": "Log out",
+		"name": "Name",
+		"nodeInformation": "Node Information",
+		"profile": "Profile",
+		"removed": "Removed",
+		"save": "Save",
+		"search": "Search",
+		"selling": "Selling",
+		"settings": "Settings",
+		"signIn": "Sign In",
+		"state": "State",
+		"username": "Username"
+	},
+	"home": {
+		"invoiceModal": {
+			"connectToLightningNode": "Connect to LocalLightning's Lightning Node",
+			"savedPayInvoice": "Saved to user's storage, pay invoice to post to listing feed"
+		},
+		"notify": {
+			"deletedListing": "Deleted Listing",
+			"deletedListingFailed": "Failed To Delete Listing",
+			"error": "Error",
+			"errorSavingUserStorage": "Error saving listing to user's storage",
+			"invoicePaid": "Invoice Paid",
+			"invoicePaidDesc": "Listing posted to the listing feed",
+			"listingDiscarded": "Listing Discarded",
+			"listingSaved": "Listing Saved",
+			"listingSavedToYourStorage": "Listing saved to your storage"
+		},
+		"search": {
+			"city": "Search City",
+			"country": "Search Country",
+			"state": "Search State"
+		},
+		"table": {
+			"buyingTable": "Buying BTC",
+			"listingType": "Listing Type",
+			"postBuyListing": "Post Buy Listing",
+			"postSellListing": "Post Sell Listing",
+			"sellingTable": "Selling BTC"
+		},
+		"welcome": {
+			"getStarted": "Get Started",
+			"header": "Welcome to Local Lightning!",
+			"learnMore": "To learn more about the Lightning network, please check out ",
+			"optionallyConnectToNode": "Optionally connect to Local Lightning's Node",
+			"paragraph1": "Local Lightning was created to connect those wishing to sell or buy bitcoin locally.",
+			"paragraph2": "By utilizing the Lightning Network on top of Bitcoin, users may take advantage of instant sending and receiving of Bitcoin without the need to wait for confirmation times.",
+			"paragraph3": "Unlike similar websites, Local Lightning never holds onto or manages user funds.",
+			"thisArticle": "this article."
+		}
+	},
+	"profile": {
+		"alerts": {
+			"alreadyFollowingUser": "Already Following User",
+			"failureDeleteListing": "Failed To Delete Listing from server",
+			"failureDeleteListingUser": "Failure To Delete Listing from your storage",
+			"failureFollowingUser": "Failure Following User",
+			"followingUser": "Following User",
+			"removedListing": "Removed Listing",
+			"userNotFound": "User Not Found"
+		},
+		"deleteListing": "Are you sure you want to delete this listing?"
+	},
+	"sidebar": {
+		"dashboard": "dashboard",
+		"following": "Following",
+		"icons": "Icons",
+		"listings": "Listings",
+		"notifications": "Notifications",
+		"rtlSupport": "RTL Support",
+		"settings": "Settings",
+		"tableList": "Table List",
+		"userProfile": "User Profile"
+	}
+}
