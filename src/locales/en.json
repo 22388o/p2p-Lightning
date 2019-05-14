@@ -74,7 +74,7 @@
 		"welcome": {
 			"getStarted": "Get Started",
 			"header": "Welcome to Local Lightning!",
-			"learnMore": "To learning more about the Lightning network, please check out ",
+			"learnMore": "To learn more about the Lightning network, please check out ",
 			"optionallyConnectToNode": "Optionally connect to Local Lightning's Node",
 			"paragraph1": "Local Lightning was created to connect those wishing to sell or buy bitcoin locally.",
 			"paragraph2": "By utilizing the Lightning Network on top of Bitcoin, users may take advantage of instant sending and receiving of Bitcoin without the need to wait for confirmation times.",
