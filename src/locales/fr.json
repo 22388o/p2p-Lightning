@@ -1,0 +1,108 @@
+{
+	"dashboard": {
+		"buyingTable": "Achat de BTC par Lightning"
+	},
+	"editProfile": {
+		"alerts": {
+			"failedSavedProfile": "Impossible de sauvegarder le Profil",
+			"savedProfile": "Profil Sauvegardé"
+		},
+		"editProfile": "Editer le Profil"
+	},
+	"followingList": {
+		"alerts": {
+			"failureToRemove": "Impossible de supprimer",
+			"removed": "Supprimé",
+			"removedUser": "Utilisateur supprimé de la liste de suivi"
+		},
+		"followingList": "List de suivi",
+		"unfollowUser": "Êtes-vous sûr de ne plus vouloir suivre cet utilisateur?"
+	},
+	"general": {
+		"aboutMe": "À propos",
+		"actions": "Actions",
+		"buying": "Achat",
+		"capacity": "Capacité",
+		"city": "Ville",
+		"country": "Pays",
+		"currency": "Devise",
+		"description": "Description",
+		"email": "Email",
+		"follow": "Suivre",
+		"location": "Emplacement",
+		"logOut": "Se déconnecter",
+		"name": "Nom",
+		"nodeInformation": "Information du Node",
+		"profile": "Profil",
+		"removed": "Supprimé",
+		"save": "Sauvegarder",
+		"search": "Rechercher",
+		"selling": "Vendre",
+		"settings": "Paramètres",
+		"signIn": "Se Connecter",
+		"state": "État",
+		"username": "Nom d'utilisateur"
+	},
+	"home": {
+		"invoiceModal": {
+			"connectToLightningNode": "Se connecter au Node Lightning de LocalLightning",
+			"savedPayInvoice": "Sauvegardé sur l'espace de stockage de l'utilisateur, veuillez payer la facture afin de poster sur le flux de listing"
+		},
+		"notify": {
+			"deletedListing": "Listing Supprimé",
+			"deletedListingFailed": "Impossible de supprimer le listing",
+			"error": "Erreur",
+			"errorSavingUserStorage": "Erreur au moment de sauvegarder le listing sur l'espace de stockage de l'utilisateur",
+			"invoicePaid": "Facture Payée",
+			"invoicePaidDesc": "Listing posté sur le flux de listing",
+			"listingDiscarded": "Listing Abandonné",
+			"listingSaved": "Listing Sauvegardé",
+			"listingSavedToYourStorage": "Listing Sauvegardé dans votre espace de stockage"
+		},
+		"search": {
+			"city": "Rechercher une ville",
+			"country": "Rechercher un pays",
+			"state": "Rechercher un état"
+		},
+		"table": {
+			"buyingTable": "Achat de BTC",
+			"listingType": "Type de Listing",
+			"postBuyListing": "Poster Listing d'Achat",
+			"postSellListing": "Poster Listing de Vente",
+			"sellingTable": "Vente de BTC"
+		},
+		"welcome": {
+			"getStarted": "Pour Commencer",
+			"header": "Bienvenue sur Local Lightning!",
+			"learnMore": "Pour en apprendre plus sur le Lightning Network, veuillez consulter ",
+			"optionallyConnectToNode": "Connecter facultativement au Node de Local Lightning",
+			"paragraph1": "Local Lightning a été créé pour connecter celles et ceux désireux de vendre ou acheter du bitcoin localement.",
+			"paragraph2": "En utilisant le Lightning Network au dessus de Bitcoin, les utilisateurs peuvent tirer avantage de l'envoi et le réception instantanés de Bitcoin sans avoir besoin d'attendre les temps de confirmation.",
+			"paragraph3": "Contrairement aux sites similaires, Local Lightning ne conserve jamais et ne gère jamais de capitaux d'utilisateurs.",
+			"thisArticle": "cet article."
+		}
+	},
+	"profile": {
+		"alerts": {
+			"alreadyFollowingUser": "Utilisateur déjà suivi",
+			"failureDeleteListing": "Impossible de supprimer le Listing du serveur",
+			"failureDeleteListingUser": "Impossible de supprimer le Listing de votre espace de stockage",
+			"failureFollowingUser": "Impossible de suivre l'utilisateur",
+			"followingUser": "Utilisateur suivi",
+			"removedListing": "Listing Supprimé",
+			"userNotFound": "Utilisateur Non Trouvé"
+		},
+		"deleteListing": "Êtes-vous sûr de bien vouloir supprimer ce listing?"
+	},
+	"sidebar": {
+		"dashboard": "Tableau de bord",
+		"following": "Following",
+		"icons": "Icônes",
+		"listings": "Listings",
+		"notifications": "Notifications",
+		"rtlSupport": "Support RTL",
+		"settings": "Paramètres",
+		"tableList": "Liste Tableau",
+		"userProfile": "Profil de l'utilisateur"
+	}
+}
