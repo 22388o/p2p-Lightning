@@ -1,7 +1,7 @@
 {
-  "name": "Local Lightning",
-  "start_url": "https://www.locallightning.net",
-  "description": "A simple lightning app built on blockstack",
+  "name": "P2P Lightning",
+  "start_url": "https://22388o.github.io/p2p-Lightning/",
+  "description": "A simple lightning app built on LN",
   "icons": [{
     "src": "https://www.locallightning.net/logo.png",
     "sizes": "400x400",
