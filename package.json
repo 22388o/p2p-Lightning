@@ -1,4 +1,5 @@
 {
+  "homepage": "https://22388o.github.io/p2p-Lightning/"
   "name": "LocalLightning",
   "version": "0.2.3",
   "description": "A blockstack lightning application",
